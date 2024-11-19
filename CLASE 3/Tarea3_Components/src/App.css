@@ -1,0 +1,14 @@
+.main-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: row;
+  height: 100vh;
+  background-color: white;
+}
+
+.content-container {
+  max-width: 600px;
+  text-align: center;
+  font-family: Arial, sans-serif;
+}
